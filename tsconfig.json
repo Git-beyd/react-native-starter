@@ -1,3 +1,10 @@
 {
+<<<<<<< HEAD
   "extends": "@tsconfig/react-native/tsconfig.json"
+=======
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true
+  }
+>>>>>>> 4a5e71758e0938739c09823d88cf95a3562a1d0b
 }
